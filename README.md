@@ -45,10 +45,3 @@ Notes:
 - You can customize the backend to use different Hugging Face models.
 - This app currently works best online due to API dependency but can be adapted for offline usage with local models.
 
-Contribution:
-
-Feel free to fork and contribute! Please raise issues or pull requests for improvements.
-
-License:
-
-MIT License
